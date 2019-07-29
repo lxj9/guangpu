@@ -1,0 +1,48 @@
+.tiao{
+	width: 100%;
+	height: 70px;
+	box-shadow:0 2px 2px -1px gray;
+}
+.tiao h2{
+	margin-left: 50px;
+}
+.tiao ul li{
+	float: left;
+	font-size: 18px;
+	width: 165px;
+	text-align: center;
+	line-height: 70px;
+	height: 70px;
+}
+.t{
+	width: 1000px;
+	height: 70px;
+}
+.t h2{
+	float: left; 
+}
+.t ul{
+	float: right;
+}
+.tiao ul li a{
+	color: black;
+}
+.tiao ul li:hover a{
+	color: white;
+	text-decoration: none;
+}
+.tiao ul li:hover{
+	background-color: #202D81;
+}
+.main{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.main ul{
+	width: 1180px;
+	margin: 0 auto;
+}
+.main ul li{
+	float: left;
+	padding: 0 4px 70px 0;
+}

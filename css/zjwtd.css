@@ -1,0 +1,86 @@
+.b{
+	margin: 0 auto;
+}
+.b ul li{
+	width: 370px;
+	height: 427px;
+	border:1px solid black;
+	border-radius: 30px;
+	float: left;
+	margin: 40px 20px 20px 40px;
+	position: relative;
+}
+.b ul li div{
+	width: 341px;
+	margin: 22px auto 0px auto;
+	
+}
+.b ul li div h4{
+	font-weight: bold;
+}
+.b ul li p{
+	width: 366px;
+	height: 88px;
+	background-color: #E3E1E2;
+	position: absolute;
+	bottom: -10px;
+	left: 0px;
+	border-radius: 0px 0px 30px 30px;
+	text-align: center;
+	line-height: 88px;
+}
+.b ul li p a{
+	color: black;
+	font-size: 18px;
+	display: inline-block;
+	width: 178px;
+	height: 60px;
+	border:1px solid black;
+	line-height: 60px;
+	text-align: center;
+	border-radius: 30px;
+	font-weight: bold;
+}
+.b ul li p a:hover{
+	color: #005797;
+	text-decoration: none;
+}
+.b ul .l3{
+	background-color: #005797;
+}
+.b ul .l3 span{
+	color: #E5E5E5;
+	line-height: 37px;
+	display: block;
+	width: 330px;
+	margin: 20px auto 0px auto;
+}
+.ye ul{
+	width: 590px;
+	margin: 60px auto 60px auto;
+}
+.ye ul li{
+	width: 58px;
+	height: 58px;
+	border:1px solid #B6B6B6;
+	border-radius: 4px;
+	margin: 0px 7px 0px 7px;
+	float: left;
+	text-align: center;
+	line-height: 58px;
+	font-size: 24px;
+	font-weight: bold;
+}
+.ye ul .wu{
+	border:none;
+}
+.ye ul li a{
+	color: #B6B6B6;
+	text-decoration: none;
+}
+.ye ul li:hover{
+	background-color: #005797;
+}
+.ye ul li:hover a{
+	color: white;
+}
